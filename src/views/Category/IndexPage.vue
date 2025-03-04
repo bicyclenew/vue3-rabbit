@@ -3,10 +3,7 @@
 </script>
 
 <template>
-<div>
-  我是首页
-  <RouterView></RouterView>
-</div>
+  <div>欢迎来到分类</div>
 </template>
 
 <style scoped>
